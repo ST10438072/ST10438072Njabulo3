@@ -22,7 +22,7 @@ The name of the application is “My Pet”
 
 The reason why I chose these pictures was because the dog looks cute and it's a dog that gets along well with kids and is a great family dog  
 
- 
+ST10438072/ST10438072Njabulo3: IMAD5112 Assignment 2 (github.com) 
 
  
 
@@ -54,4 +54,7 @@ References
 
 OpenAI. ChatGPT. [Online]. Available at: https://chat.openai.com/c/603b1072-4424-4cdb-9bea-2590b0979dfe/ (Accessed: April 22, 2024) 
 
+ 
+
+ 
  
