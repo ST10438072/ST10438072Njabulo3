@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#673AB7"
+    tools:context=".MainActivity4">
+
+  <Button
+      android:id="@+id/feedButton"
+      android:layout_width="564dp"
+      android:layout_height="212dp"
+      android:backgroundTint="#9C27B0"
+      android:text="Feed"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="62dp"
+      tools:layout_editor_absoluteY="1551dp" />
+
+  <ImageView
+      android:id="@+id/petImageView"
+      android:layout_width="1067dp"
+      android:layout_height="1316dp"
+      android:src="@drawable/images"
+      tools:layout_editor_absoluteX="493dp"
+      tools:layout_editor_absoluteY="56dp" />
+
+  <TextView
+      android:id="@+id/feedTextView"
+      android:layout_width="466dp"
+      android:layout_height="214dp"
+      android:text="Feed"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="107dp"
+      tools:layout_editor_absoluteY="2100dp" />
+
+  <TextView
+      android:id="@+id/cleanTextView"
+      android:layout_width="466dp"
+      android:layout_height="214dp"
+      android:text="Clean"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="107dp"
+      tools:layout_editor_absoluteY="2802dp" />
+
+  <TextView
+      android:id="@+id/playTextView"
+      android:layout_width="466dp"
+      android:layout_height="214dp"
+      android:text="Play"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="107dp"
+      tools:layout_editor_absoluteY="2454dp" />
+
+  <Button
+      android:id="@+id/playButton"
+      android:layout_width="586dp"
+      android:layout_height="219dp"
+      android:backgroundTint="#9C27B0"
+      android:text="Play"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="793dp"
+      tools:layout_editor_absoluteY="1567dp" />
+
+  <Button
+      android:id="@+id/cleanButton"
+      android:layout_width="487dp"
+      android:layout_height="209dp"
+      android:backgroundTint="#9C27B0"
+      android:text="Clean"
+      android:textSize="96sp"
+      tools:layout_editor_absoluteX="1549dp"
+      tools:layout_editor_absoluteY="1584dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
